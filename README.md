@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quincy Sorrentino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quincysorrentino&label=Profile%20views&color=0e75b6&style=flat" alt="quincysorrentino" /> </p>
 
-- 🌱 I’m currently learning **Java Development and Cyber Security**
+- 🌱 I’m currently learning **Software Development, AI / ML, CyberSecurity**
 
 - 📫 How to reach me **qsorrentino@wisc.edu**
 
