@@ -80,7 +80,7 @@ serving as a secondary observer in interviews
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quincysorrentino&layout=compact&theme=dracula&hide_border=true)
+[![Quincy's GitHub stats](https://github-readme-stats.vercel.app/api?username=quincysorrentino)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
