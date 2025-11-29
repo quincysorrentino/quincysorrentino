@@ -2,7 +2,7 @@
 
 # Hi there, I'm Quincy Sorrentino! 👋
 
-**CS Student @ UW Madison | AI & ML Engineer | Autonomous Systems Developer**
+**CS Student @ UW Madison**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/quincy-sorrentino)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:qsorrentino@wisc.edu)
@@ -11,14 +11,9 @@
 
 ## 🚀 About Me
 
-I am a Computer Science Honors student at the University of Wisconsin-Madison (Class of 2027), specializing in **Machine Learning**, **Perception Systems**, and **Big Data**.
+I am a Computer Science Honors student at the University of Wisconsin-Madison (Class of 2027).
 
 I love building intelligent systems that solve complex problems—whether that's optimizing ML pipelines for enterprise security or developing real-time vision stacks for autonomous cars.
-
-- 🔭 I'm currently working as a **Senior Perception Developer** at Wisconsin Autonomous
-- 🧠 I have experience building RAG systems and LLM integrations from my time at Symphony AI
-- 🏎️ I helped my team secure a **2nd place national finish** in the SAE AutoDrive Challenge
-- 🎓 I'm also researching cybersecurity education mindsets at UW Madison
 
 ## 🛠️ Technical Arsenal
 
