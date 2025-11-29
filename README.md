@@ -80,7 +80,7 @@ serving as a secondary observer in interviews
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quincysorrentino&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincysorrentino&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
 </div>
 
