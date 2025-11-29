@@ -76,13 +76,6 @@ answering and code auto-completion
 - Enabled a formal study on cybersecurity education by assisting with qualitative data analysis and 
 serving as a secondary observer in interviews 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=quincysorrentino&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-
-</div>
 
 ---
 
