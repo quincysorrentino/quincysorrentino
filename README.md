@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Quincy Sorrentino! 👋
+Quincy Sorrentino
 
 **CS Student @ UW Madison**
 
@@ -9,13 +9,13 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I am a Computer Science Honors student at the University of Wisconsin-Madison (Class of 2027).
 
 I love building intelligent systems that solve complex problems—whether that's optimizing ML pipelines for enterprise security or developing real-time vision stacks for autonomous cars.
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 **Languages**
 
@@ -47,7 +47,7 @@ I love building intelligent systems that solve complex problems—whether that's
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
 </p>
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 ### <img src="https://wa.wisc.edu/wp-content/uploads/sites/2047/2022/03/Screen-Shot-2022-03-08-at-1.39.09-PM-768x708.png" alt="Wisconsin Autonomous" width="30" height="30"/> Wisconsin Autonomous | Senior Perception Team Developer
 
