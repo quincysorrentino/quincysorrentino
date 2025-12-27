@@ -13,7 +13,7 @@ Quincy Sorrentino
 
 I am a Computer Science Honors student at the University of Wisconsin-Madison (Class of 2027).
 
-I love building intelligent systems that solve complex problems—whether that's optimizing ML pipelines for enterprise security or developing real-time vision stacks for autonomous cars.
+I love building intelligent systems that solve complex problems, whether that's optimizing ML pipelines for enterprise security or developing real-time vision stacks for autonomous cars.
 
 ## Technical Stack
 
