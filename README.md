@@ -15,37 +15,49 @@ I am a Computer Science Honors student at the University of Wisconsin-Madison (C
 
 I love building intelligent systems that solve complex problems—whether that's optimizing ML pipelines for enterprise security or developing real-time vision stacks for autonomous cars.
 
-## Technical Arsenal
+## Technical Stack
 
-**Languages**
+<div style="background-color:#f6f8fa; padding:16px; border-radius:8px;">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-</p>
+### Languages
+<img src="https://cdn.simpleicons.org/python" height="40"/>
+<img src="https://cdn.simpleicons.org/cplusplus" height="40"/>
+<img src="https://cdn.simpleicons.org/c" height="40"/>
+<img src="https://cdn.simpleicons.org/gnubash" height="40"/>
+<img src="https://cdn.simpleicons.org/mysql" height="40"/>
 
-**AI/ML & Data**
+<br/><br/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS2" width="50" height="50"/>
-</p>
+### AI / ML & Data Science
+<img src="https://cdn.simpleicons.org/pytorch" height="40"/>
+<img src="https://cdn.simpleicons.org/opencv" height="40"/>
+<img src="https://cdn.simpleicons.org/yolo" height="40"/>
+<img src="https://cdn.simpleicons.org/pandas" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy" height="40"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" height="40"/>
+<img src="https://cdn.simpleicons.org/fastapi" height="40"/>
+<img src="https://cdn.simpleicons.org/apachekafka" height="40"/>
 
-**DevOps & Tools**
+<br/><br/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
-</p>
+### Robotics & Embedded Systems
+<img src="https://cdn.simpleicons.org/linux" height="40"/>
+<img src="https://cdn.simpleicons.org/docker" height="40"/>
+<img src="https://cdn.simpleicons.org/ros" height="40"/>
+<img src="https://cdn.simpleicons.org/onnx" height="40"/>
+<img src="https://cdn.simpleicons.org/nvidia" height="40"/>
+<img src="https://cdn.simpleicons.org/raspberrypi" height="40"/>
+
+<br/><br/>
+
+### Engineering & DevOps
+<img src="https://cdn.simpleicons.org/git" height="40"/>
+<img src="https://cdn.simpleicons.org/cmake" height="40"/>
+<img src="https://cdn.simpleicons.org/jenkins" height="40"/>
+
+</div>
+
+
 
 ## Experience Highlights
 
@@ -57,14 +69,14 @@ I love building intelligent systems that solve complex problems—whether that's
 - **Lane & Sign Recognition:** Enhanced system-wide reliability by enhancing object detection model accuracy by 19% during adverse weather conditions
 - **Competition Success:** Contributed to 2nd place national finish in SAE AutoDrive Challenge Year 4, developed vision pipelines for street sign detection, lane marking recognition, and autonomous navigation systems 
 
-### <img src="https://logo.clearbit.com/mimecast.com" alt="Mimecast" width="30" height="30"/> Mimecast | Software Engineering Intern (ML Systems)
+### <img src="https://www.google.com/s2/favicons?sz=64&domain=mimecast.com" alt="Mimecast" width="30" height="30" align="center"/> Mimecast | Software Engineering Intern (ML Systems)
 
 - Optimized a legacy ML pipeline by streamlining data preprocessing and engineering custom model inputs, reducing end to end execution time by 67% 
 - Delivered a comprehensive analysis on a critical model’s efficacy, producing a detailed report presented to C-suite and senior leadership to guide companywide priorities
 - Accelerated development velocity and reduced organizational risk by building a synthetic data generation tool used by 15+ developers for privacy-compliant model testing and local development 
 - Supported the end-to-end development of a machine learning model, contributing across the full project lifecycle to ensure successful deployment
 
-### <img src="https://logo.clearbit.com/symphonyai.com" alt="Symphony AI" width="30" height="30"/> Symphony AI | Software Engineering Intern (AI Systems)
+### <img src="https://www.google.com/s2/favicons?sz=64&domain=symphonyai.com" alt="Symphony AI" width="30" height="30" align="center"/> Symphony AI | Software Engineering Intern (AI Systems)
 
 - Streamlined codebase exploration for 200+ developers by creating a retrieval-augmented code generation system using vector stores, embeddings, and re-ranking models 
 - Enabled efficient developer workflows by building an API to serve a context-aware LLM for query 
