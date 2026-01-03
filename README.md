@@ -64,10 +64,9 @@ I love building intelligent systems that solve complex problems, whether that's 
 ### <img src="https://wa.wisc.edu/wp-content/uploads/sites/2047/2022/03/Screen-Shot-2022-03-08-at-1.39.09-PM-768x708.png" alt="Wisconsin Autonomous" width="30" height="30"/> Wisconsin Autonomous | Senior Perception Team Developer
 
 
-- **Real-Time Optimization:** Optimized a real-time perception pipeline distributed across three NVIDIA Jetson computers, improving latency by 50%, improving real-time vision-to-control responsiveness in the autonomous stack
-- **Robust Vision Systems:** Enhanced object detection model accuracy by 19% in adverse weather conditions (rain/snow/dust) to ensure safety and reliability
-- **Lane & Sign Recognition:** Enhanced system-wide reliability by enhancing object detection model accuracy by 19% during adverse weather conditions
-- **Competition Success:** Contributed to 2nd place national finish in SAE AutoDrive Challenge Year 4, developed vision pipelines for street sign detection, lane marking recognition, and autonomous navigation systems 
+- Contributed to a 2nd place national finish in SAE AutoDrive Challenge Year 4 by developing vision pipelines for street sign detection, lane marking detection, and autonomous navigation
+- Optimized a distributed real-time perception pipeline across three NVIDIA Jetson devices using multithreading and latency profiling, reducing end-to-end latency by 50%
+- Improved object detection robustness by 19% in adverse weather through targeted data augmentation and model retraining
 
 ### <img src="https://www.google.com/s2/favicons?sz=64&domain=mimecast.com" alt="Mimecast" width="30" height="30" align="center"/> Mimecast | Software Engineering Intern (ML Systems)
 
