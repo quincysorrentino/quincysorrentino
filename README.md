@@ -85,11 +85,6 @@ answering and code auto-completion
 
 - Collaborated with Ph.D. researcher and Dr. Rahul Chatterjee on cybersecurity education research focused on *Instilling Security Mindset in Undergraduate CS Students*
 - Enabled a formal study on cybersecurity education by assisting with qualitative data analysis and 
-serving as a secondary observer in interviews 
-
+serving as a secondary observer in interviews
 
 ---
-
-<div align="center">
-<sub>Designed by Quincy Sorrentino</sub>
-</div>
